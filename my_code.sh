@@ -1,1 +1,1 @@
-echo Hello!
+echo resolved merge conflict
